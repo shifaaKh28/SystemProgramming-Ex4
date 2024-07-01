@@ -1,4 +1,4 @@
-
+![Screenshot from 2024-07-01 15-29-27](https://github.com/shifaaKh28/SystemProgramming-Ex4/assets/132808634/ca413446-a49b-40ff-aad5-546b726a195e)
 ## Trees - STL, Templates, and Iterators:
 
 ### Files and Classes
@@ -92,4 +92,4 @@ The tree visualization part of the project uses SFML to render the tree structur
 - `void drawTree(std::shared_ptr<Node<T>> node)`: Recursively draws the tree nodes and edges.
 
 The GUI provides a visual representation of the tree, making it easier to understand the structure and relationships between nodes.
-![Screenshot from 2024-07-01 15-29-27](https://github.com/shifaaKh28/SystemProgramming-Ex4/assets/132808634/ca413446-a49b-40ff-aad5-546b726a195e)
+
