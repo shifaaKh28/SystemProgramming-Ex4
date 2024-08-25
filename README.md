@@ -11,7 +11,7 @@
 
 - Header file for the tree class.
 
-##### Classes and Methods
+##### Classes and Methods:
 
 - **Tree Class**
   - `Tree()`: Constructs a tree with the given maximum number of children per node.
